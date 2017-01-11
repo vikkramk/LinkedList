@@ -1,0 +1,3 @@
+node.hpp defines the node class, include this
+node.o provides node class definitions, link this
+student.hpp contains the definition of the Student struct, include this
